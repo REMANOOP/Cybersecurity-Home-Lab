@@ -1,5 +1,5 @@
 # Cybersecurity-Home-Lab
-A virtual cybersecurity lab demonstrating vulnerability assessment and penetration testing using Kali Linux and Metasploitabl
+A virtual cybersecurity lab demonstrating vulnerability assessment and penetration testing using Kali Linux and Metasploitable
 # Cybersecurity Home Lab - Vulnerability Assessment & Penetration Testing
 
 ## Overview
